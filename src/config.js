@@ -1,14 +1,14 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'AIKaid的导航页🎉',
-		description: '欢迎来到AIKaid的精彩奇妙世界！',
-		keywords: 'AIKaid,个人主页,个人网站',
+		title: 'Leleo的个人主页🎉',
+		description: '欢迎来到Leleo的奇妙世界！',
+		keywords: 'Leleo,leleo,个人主页,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm AIKaid", // 标题
+	welcometitle: "Hi, I'm Leleo", // 标题
 
 	// 颜色配置
 	color: {
@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ["是个好人", "顶级牛马", "AI小白"],
+	tags: ['乐观开朗', '温柔体贴', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
 
 	// 默认背景壁纸
 	background: {
@@ -47,14 +47,14 @@ const config = {
 
 	//极坐标图数据
 	polarChart: {
-		skills: ['AI', 'Supbase', 'HTML'],
-		skillPoints: [60,20,45],
+		skills: ['Vue.js', 'React', 'JavaScript', 'Node', 'Java', 'Python', 'linux', 'Docker', 'MySQL', 'MongoDB', 'AWS'],
+		skillPoints: [85, 78, 88, 90, 80, 78, 85, 65, 82, 78, 70],
 	},
 
 	//社交按钮
 	socialPlatformIcons: [
-		{ icon: "mdi-github", link: "https://github.com/Ljh15224052032" },
-		{ icon: "mdi-email", link: "3083198420@qq.com" },
+		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
+		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
 		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
 		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
 		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
@@ -63,10 +63,10 @@ const config = {
 
 	//打字机
 	typeWriterStrings: [
-		"欢迎到来，远途的旅客，这是一片新生的土壤，希望带来微风的感受。",
-		"1234，1234，顶级牛马，加油干活，多想想，白日梦总是美好的。",
-		"子曰：学而时习之，不亦说乎，有朋自远方来，不亦乐乎？",
-		"人生太短，只争朝夕，愉快地度过每一秒，任何争执都让它溜走吧。"
+		"如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
+		"顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
+		"心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
+		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
 	],
 
 	//音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
@@ -138,8 +138,8 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "我的博客写作站", subtitle: "落笔，深思，感悟，成长", text: "我的内容博客，希望能记录我的成长和经验（需要VPN）", url: "https://2025-myblog.vercel.app/", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "AI工具收集站", subtitle: "收纳我学习尝试过的AI工具", text: "学也无涯，归于一途（需要VPN）", url: "https://zjutai-ai-hub-git-main-aikaids-projects.vercel.app/", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
