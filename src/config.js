@@ -138,8 +138,8 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "我的博客写作站", subtitle: "落笔，深思，感悟，成长", text: "我的内容博客，希望能记录我的成长和经验（需要VPN）", url: "https://2025-myblog.vercel.app/", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "AI工具收集站", subtitle: "收纳我学习尝试过的AI工具", text: "I学也无涯，归于一途（需要VPN）", url: "https://zjutai-ai-hub-git-main-aikaids-projects.vercel.app/", show: false },
+		{ go: "🚀 前往", img: "/img/blog.png", title: "我的博客写作站", subtitle: "落笔，深思，感悟，成长", text: "我的内容博客，希望能记录我的成长和经验（需要VPN）", url: "https://2025-myblog.vercel.app/", show: false },
+		{ go: "🗂️ 前往", img: "/img/aihub.png", title: "AI工具收集站", subtitle: "收纳我学习尝试过的AI工具", text: "I学也无涯，归于一途（需要VPN）", url: "https://zjutai-ai-hub-git-main-aikaids-projects.vercel.app/", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
